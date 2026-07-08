@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-opencv-python-headless
-onnxruntime>=1.17.0
-paddle2onnx>=1.1.0
-gunicorn
